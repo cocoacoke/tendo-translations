@@ -11,9 +11,9 @@ To suggest a correction, [open a translation issue](https://github.com/DrRoglaa/
 
 | Key and translator context | English source | AI-assisted draft | Human review |
 |---|---|---|---|
-| `tendoDurationMinutesAndSecondsSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(minutes)lld minutes, %2$(seconds)lld seconds | %1$(minutes)lld분 %2$(seconds)lld초 | AI draft · unreviewed |
-| `tendoDurationMinutesSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(minutes)lld minutes | %1$(minutes)lld분 | AI draft · unreviewed |
-| `tendoDurationSecondsSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(seconds)lld seconds | %1$(seconds)lld초 | AI draft · unreviewed |
-| `tendoRoutinesStepProgressSpoken`<br>*Routines interface text. Review meaning, tone, and on-screen context.* | Step %1$(step)lld of %2$(total)lld | %2$(total)lld단계 중 %1$(step)lld단계 | AI draft · unreviewed |
+| `tendoDurationMinutesAndSecondsSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(minutes)lld minutes, %2$(seconds)lld seconds | %1$(minutes)lld분 %2$(seconds)lld초 | checked |
+| `tendoDurationMinutesSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(minutes)lld minutes | %1$(minutes)lld분 | checked |
+| `tendoDurationSecondsSpoken`<br>*Duration interface text. Review meaning, tone, and on-screen context.* | %1$(seconds)lld seconds | %1$(seconds)lld초 | checked |
+| `tendoRoutinesStepProgressSpoken`<br>*Routines interface text. Review meaning, tone, and on-screen context.* | Step %1$(step)lld of %2$(total)lld | %2$(total)lld단계 중 %1$(step)lld단계 | checked |
 
 [All topics](README.md) · [← Previous topic](permissions-app-identity.md) · [Next topic →](focus.md)

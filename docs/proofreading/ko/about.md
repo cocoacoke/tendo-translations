@@ -11,6 +11,6 @@ To suggest a correction, [open a translation issue](https://github.com/DrRoglaa/
 
 | Key and translator context | English source | AI-assisted draft | Human review |
 |---|---|---|---|
-| `tendoAboutIndieDeveloperFooter`<br>*About interface text. Review meaning, tone, and on-screen context.* | Independent software, built with ♥ by Indie developer (David Rok Roglič) in Slovenia. | 슬로베니아의 인디 개발자 David Rok Roglič가 ♥을 담아 만든 독립 소프트웨어입니다. | AI draft · unreviewed |
+| `tendoAboutIndieDeveloperFooter`<br>*About interface text. Review meaning, tone, and on-screen context.* | Independent software, built with ♥ by Indie developer (David Rok Roglič) in Slovenia. | 슬로베니아의 인디 개발자 David Rok Roglič가 ♥을 담아 만든 독립 소프트웨어입니다. | 슬로베니아의 인디 개발자 David Rok Roglič가 ♥을 담아 만든 소프트웨어입니다. <br>Replaced `independent software` -> `software` |
 
 [All topics](README.md) · [← Previous topic](live-activities.md) · [Next topic →](brain-dump.md)
